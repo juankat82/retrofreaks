@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">RetroFreaks</string>
+    <string name="language">Ingles/English</string>
+    <string name="games_string">Games</string>
+    <string name="cables_string">Cables</string>
+    <string name="mods_string">Mods</string>
+    <string name="menu_string">Menu</string>
+    <string name="where_to_buy">Where to buy</string>
+    <string name="links_of_interest">Links</string>
+    <string name="about_string">About</string>
+    <string name="upscalers_string">Upscalers</string>
+    <string name="misc">Miscellaneous</string>
+    <string name="empty_string">empty</string>
+    <string name="flashcarts">Flashcarts/ODE</string>
+    <string name="accesories_string">Accessories</string>
+    <string name="press_to_exit_string">Press Back again to exit</string>
+    <string name="enter_search_string">Enter game name</string>
+    <string name="previous_next_string">Prev/Next</string>
+    <string name="null_string"/>
+    <string name="opps">Ooooopps!!!\nGO BACK!!!</string>
+    <string name="change_language">Change Language</string>
+    <string name="sure_change_language">Do you wish to change the language?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="choose_application">Choose an app</string>
+    <string name="no_application">No compatible app available</string>
+</resources>

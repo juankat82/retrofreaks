@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.RetroFreaks" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:statusBarColor">@color/material_grey_900</item>
+        <item name="android:textColorPrimary">@color/ocre</item>
+<!--        <item name="titleTextColor">@color/ocre</item>-->
+    </style>
+</resources>
